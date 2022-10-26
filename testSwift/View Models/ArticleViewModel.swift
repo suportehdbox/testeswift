@@ -40,16 +40,7 @@ extension ArticleListViewModel {
     }
 }
 
-
-
-
-
-
-
-
-
-
-// MARK: CONFIG DADOS 
+// MARK: CONFIG DADOS
 
 
 struct ArticleViewModel {
@@ -92,4 +83,73 @@ extension ArticleViewModel {
     
 }
 
+
+
+
+extension ArticleViewModel {
+    
+    var name: String {
+        
+        return self.article.name
+        
+    }
+    
+}
+
+
+
+extension ArticleViewModel {
+    
+    var full_name: String {
+        
+        return self.article.full_name
+        
+    }
+    
+}
+
+
+
+
+extension ArticleViewModel {
+    
+    var stargazers_count: Int {
+        
+        return self.article.stargazers_count
+        
+    }
+    
+}
+
+
+
+
+
+extension ArticleViewModel {
+    
+    var forks_count: Int {
+        
+        return self.article.forks_count
+        
+    }
+    
+}
+
+
+
+
+
+
+
+
+
+extension ArticleViewModel {
+    
+    var avatar_url: String {
+        
+        return self.article.owner.avatar_url
+        
+    }
+    
+}
 

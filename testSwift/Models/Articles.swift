@@ -7,17 +7,6 @@
 
 import Foundation
 
-struct ArticleList: Decodable {
-    
-    let articles: [Article]
-    
-}
-struct Article: Decodable {
-    
-    let title: String
-    let description: String
-    
-}
 
 
 
@@ -31,5 +20,22 @@ struct Item: Decodable {
     
     let id: Int
     let node_id: String
+    let name: String
+    let full_name: String
+    let forks_url:String
+    
+    let stargazers_count: Int
+    let forks_count: Int
+    
+    let owner: Owner
+}
+
+
+struct Owner: Decodable {
+    
+    let avatar_url: String
     
 }
+
+
+
