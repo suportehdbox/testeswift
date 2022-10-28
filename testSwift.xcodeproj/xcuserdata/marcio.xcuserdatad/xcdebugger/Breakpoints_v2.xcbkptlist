@@ -14,10 +14,102 @@
             filePath = "testSwift/Cells/ArticleTableViewCell.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "25"
-            endingLineNumber = "25"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
             landmarkName = "ArticleTableViewCell"
             landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "BC56920F-98BE-42F1-9309-72D33B0F2708 - b12b72c4d229fa50"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testSwift.ArticleTableViewCell.forks_count.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "testSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcio/Documents/testSwift/testeswift/testSwift/Cells/ArticleTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "BC56920F-98BE-42F1-9309-72D33B0F2708 - 3f60ee229c1d2644"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testSwift.ArticleTableViewCell.forks_count.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "testSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcio/Documents/testSwift/testeswift/testSwift/Cells/ArticleTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "BC56920F-98BE-42F1-9309-72D33B0F2708 - 193563784a69a353"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testSwift.ArticleTableViewCell.forks_count.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "testSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcio/Documents/testSwift/testeswift/testSwift/Cells/ArticleTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "BC56920F-98BE-42F1-9309-72D33B0F2708 - 1b808f8d564798e7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testSwift.ArticleTableViewCell.forks_count.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "testSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcio/Documents/testSwift/testeswift/testSwift/Cells/ArticleTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "BC56920F-98BE-42F1-9309-72D33B0F2708 - a663bc199b8f0392"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testSwift.ArticleTableViewCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; testSwift.ArticleTableViewCell"
+                  moduleName = "testSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcio/Documents/testSwift/testeswift/testSwift/Cells/ArticleTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "445">
+               </Location>
+               <Location
+                  uuid = "BC56920F-98BE-42F1-9309-72D33B0F2708 - 447ff3d952fb6af3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testSwift.ArticleTableViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;testSwift.ArticleTableViewCell&gt;"
+                  moduleName = "testSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marcio/Documents/testSwift/testeswift/testSwift/Cells/ArticleTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "402">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

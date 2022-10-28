@@ -7,10 +7,6 @@
 
 import Foundation
 
-
-
-
-
 struct ItemList: Decodable {
     
     let items: [Item]
@@ -37,5 +33,12 @@ struct Owner: Decodable {
     
 }
 
-
+struct Variable {
+    
+    static var name = ""
+    static var forks_count = ""
+    static var full_name = ""
+    static var stargazers_count = ""
+    static var url = ""
+}
 

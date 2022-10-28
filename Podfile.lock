@@ -1,0 +1,16 @@
+PODS:
+  - HHCustomCorner (0.1.3)
+
+DEPENDENCIES:
+  - HHCustomCorner
+
+SPEC REPOS:
+  trunk:
+    - HHCustomCorner
+
+SPEC CHECKSUMS:
+  HHCustomCorner: d7817fc58b894347245363dd8a0d0beafd474bcd
+
+PODFILE CHECKSUM: af666c46267cb3a7f6c4be7b658c1245f106dfc6
+
+COCOAPODS: 1.11.3
